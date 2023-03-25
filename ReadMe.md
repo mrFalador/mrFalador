@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm FullStack developer. Currently I worked on DoczillaPro. <br>JavaScript, Node.js React, Express, NestJs - my main stack. I can automate work using Python. <br>I understand Java and C++. I prefer product companies that have their own approach to development.<br>Open to suggestions.
+HI! I'm FullStack developer. <br>JavaScript, Node.js React, Express, NestJs - my main stack. I can automate work using Python. <br>I understand Java and C++. I prefer product companies that have their own approach to development.<br>Open to suggestions.
 
 
 # 💻 Tech Stack:

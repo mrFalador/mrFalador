@@ -1,3 +1,4 @@
+|                                          |![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)|
 # 💫 About Me:
 HI! I'm FullStack developer. <br>JavaScript, Node.js React, Express, NestJs - my main stack. I can automate work using Python. <br>I understand Java and C++. I prefer product companies that have their own approach to development.<br>Open to suggestions.
 
@@ -10,7 +11,7 @@ HI! I'm FullStack developer. <br>JavaScript, Node.js React, Express, NestJs - my
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrFalador&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mrFalador&icon=0&color=3)](https://visitcount.itsvg.in)
